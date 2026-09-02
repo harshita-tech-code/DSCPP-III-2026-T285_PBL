@@ -1,0 +1,17 @@
+# Compiled Binaries & Executables
+*.exe
+*.out
+*.o
+*.so
+*.dylib
+bin/
+build/
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+
+# OS-generated files
+.DS_Store
+Thumbs.db

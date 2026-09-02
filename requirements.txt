@@ -1,0 +1,4 @@
+# Compiler & Toolchain Requirements
+g++>=9.3.0
+cmake>=3.10
+make>=4.2
