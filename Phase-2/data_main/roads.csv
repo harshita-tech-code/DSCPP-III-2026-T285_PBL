@@ -1,0 +1,12 @@
+src,dest,street_name
+0,1,Gate Road
+1,2,Annapurna Lane
+1,3,Shivalik Link
+1,4,Bell Road
+2,3,Kitchen Path
+4,5,Doon Residency Road
+4,6,Mess Connector
+5,7,Saraswati Lane
+6,8,St Marys Road
+7,9,Green Valley Road
+8,9,Outer Ring Road
